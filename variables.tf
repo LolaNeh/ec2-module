@@ -1,7 +1,7 @@
 variable "ami" {
   description = "Amazon machine image"
   type = string
-  default = "ami-00c6177f250e07ec1"
+  default = "ami-0d50e9ae42eead5cd"
 }
 variable "instanceType" {
     default = "t2.small"
